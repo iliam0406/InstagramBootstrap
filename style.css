@@ -1,0 +1,64 @@
+.fa-camera{
+    border: 1px solid rgb(102, 102, 102);
+    border-radius: 5px;
+    padding: 5px;
+    color: rgb(102, 102, 102);
+    margin-top: 15px;
+    margin-right: 2px;
+}
+
+.fa-map-marker{
+    border: 1px solid rgb(102, 102, 102);
+    border-radius: 5px;
+    padding-left: 8px;
+    padding-top: 5px;
+    padding-right: 8px;
+    padding-bottom: 5px;
+    color: rgb(102, 102, 102);
+    margin-top: 15px;
+    margin-right: 2px;
+}
+
+i.fa.fa-instagram {
+    font-size: 23px;
+}
+
+.navbar-brand{
+    margin-left: 6px;
+    font-family: 'Lobster Two', cursive;
+    font-size: 24px;
+    font-style: italic;  
+}
+
+.container{
+    margin-top: 30px;
+}
+
+.card-img-top{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    padding: 1px;
+    margin: 1px auto ;
+}
+
+.card{
+    border: 0px solid rgba(0,0,0,.125);
+}
+
+.col-10{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.card-group{
+    width: 100%;
+    margin: 0px auto;
+}
+
+.form-inline{
+    margin-top: 5px;
+}
+
+
+
